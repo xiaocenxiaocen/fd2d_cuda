@@ -1,5 +1,5 @@
 /* @file: get_gpu_info.cpp
- * @author: Zhang Xiao
+ * @author: xiaocenxiaocen
  * @date: 2016.09.18
  */
 #include <cstdio>
