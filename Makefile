@@ -1,5 +1,4 @@
 # Location of the CUDA Toolkit
-#CUDA_PATH = $(MJONIR)/opt/cuda
 CUDA_PATH = /home/zx/Software/cuda-7.5
 CC = icc -O3 -g -Wall -std=c99
 CXX = icpc -O3 -g -Wall -std=c++0x -Wno-deprecated
