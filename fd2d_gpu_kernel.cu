@@ -1,5 +1,5 @@
 /* @file: fd2d_gpu_kernel.cu
- * @author: Zhang Xiao
+ * @author: xiaocenxiaocen
  * @date: 2016.09.18
  */
 #include <cstdio>
